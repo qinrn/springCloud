@@ -16,6 +16,7 @@ public class Payment implements Serializable {
 
     public static void main(String[] args) {
         System.out.println("Hello ~this is Liu");
+        System.out.println("I am liubaolai");
     }
 }
 
