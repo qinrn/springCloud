@@ -14,5 +14,8 @@ public class Payment implements Serializable {
     private int id;
     private String serial;
 
+    public static void main(String[] args) {
 
-}
+    }
+
+
