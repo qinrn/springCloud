@@ -15,9 +15,7 @@ public class Payment implements Serializable {
     private String serial;
 
     public static void main(String[] args) {
-        System.out.println("Hello ~this is Liu");
-        System.out.println("I am liubaolai");
-        System.out.println("i an qinruo nan");
+      System.out.println("i delete this");
     }
 }
 
