@@ -16,10 +16,14 @@ public class Payment implements Serializable {
 
     public static void main(String[] args) {
 
-        System.out.println("i delete this");
-        System.out.println("new file");
+
         System.out.println("Test 1123");
 
+        System.out.println("Test merge");
+        System.out.println("Test merge");
+        System.out.println("Test merge");
+        System.out.println("Test merge");
+        System.out.println("Test merge");
         System.out.println("Test merge");
     }
 }
