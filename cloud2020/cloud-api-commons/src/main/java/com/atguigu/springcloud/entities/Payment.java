@@ -15,16 +15,7 @@ public class Payment implements Serializable {
     private String serial;
 
     public static void main(String[] args) {
-
-
-        System.out.println("Test 1123");
-
-        System.out.println("Test merge");
-        System.out.println("Test merge");
-        System.out.println("Test merge");
-        System.out.println("Test merge");
-        System.out.println("Test merge");
-        System.out.println("Test merge");
+        System.out.println("I'm OK");
     }
 }
 
